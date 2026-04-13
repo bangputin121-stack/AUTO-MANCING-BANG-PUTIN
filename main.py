@@ -35,7 +35,7 @@ MANCING_INTERVAL = int(os.environ.get("MANCING_INTERVAL", "310"))
 GEMINI_API_KEY   = os.environ.get("GEMINI_API_KEY", "")
 
 # Emoji ikan rare yang mau di-favorite
-RARE_EMOJIS = ["✨", "☀️", "🌟"]
+RARE_EMOJIS = ["🟤", "✨", "☀️", "🌟"]
 
 # Keyword captcha
 CAPTCHA_KEYWORDS = ["verifikasi", "captcha", "robot", "buktikan", "pilih", "berapa", "hitung"]
